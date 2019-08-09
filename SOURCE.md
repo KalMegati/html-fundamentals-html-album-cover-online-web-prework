@@ -1,14 +1,8 @@
-<!DOCTYPE html>
-<html>
-  <head>
-  </head>
-  <body>
-    <h4>PHARRELL WILLIAMS</h4>
-    
-    <h1>HAPPY</h1>
-    
-    <h5>| FROM DESPICABLE ME 2 |</h5>
-  </body>
+<!-- FRONT -->
+
+PHARRELL WILLIAMS
+
+HAPPY
 
 | FROM DESPICABLE ME 2 |
 
@@ -29,5 +23,3 @@ PHARRELLWILLIAMS.COM
 COLUMBIARECORDS.COM
 
 [sony-logo.png]
-
-</html>
